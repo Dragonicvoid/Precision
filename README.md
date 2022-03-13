@@ -1,4 +1,7 @@
 # Precision
+You can download the game at:
+https://dragonicvoid.itch.io/precision
+
 A first person puzzle game where you have to kill your target.
 
 How to play:
