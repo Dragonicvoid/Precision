@@ -4151,9 +4151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Name: 
-  m_EditorClassIdentifier: 
   m_Name: 
-  m_EditorClassIdentifier: 
   profile: {fileID: 11400000, guid: a9d1f4f300fbb384bb33048946e0903b, type: 2}
 --- !u!108 &1444395461
 Light:
